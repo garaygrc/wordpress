@@ -5,4 +5,4 @@ FROM wordpress:latest
 # COPY ./wp-content /var/www/html/wp-content
 
 # Expose port 80
-EXPOSE 80
+EXPOSE 10000
